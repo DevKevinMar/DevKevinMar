@@ -11,19 +11,9 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=13441&format=png&color=000000" height="35" alt="Python logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=hCWb1IvpcBZ0&format=png&color=000000" height="35" alt="Flask logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=9AHxUOg7E9q2&format=png&color=000000" height="35" alt="Firebase logo"  />
-  <img width="12" />
-  <img src="https://img.icons8.com/?size=100&id=bGD8ChgdMIJV&format=png&color=000000" height="30" alt="Kotlin logo"  />
   <img width="12" />
   <img src="https://img.icons8.com/?size=100&id=cdYUlRaag9G9&format=png&color=000000" height="35" alt="Docker logo"  />
   <img width="12" />
